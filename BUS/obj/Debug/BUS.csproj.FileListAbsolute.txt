@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\bin\Debug\BUS.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\bin\Debug\BUS.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\obj\Debug\BUS.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\BUS\obj\Debug\BUS.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\bin\Debug\BUS.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\bin\Debug\BUS.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\obj\Debug\BUS.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\BUS\obj\Debug\BUS.pdb
+D:\Cá nhân\QLAoCa\BUS\bin\Debug\BUS.dll
+D:\Cá nhân\QLAoCa\BUS\bin\Debug\BUS.pdb
+D:\Cá nhân\QLAoCa\BUS\bin\Debug\DAL.dll
+D:\Cá nhân\QLAoCa\BUS\bin\Debug\DTO.dll
+D:\Cá nhân\QLAoCa\BUS\bin\Debug\DAL.pdb
+D:\Cá nhân\QLAoCa\BUS\bin\Debug\DTO.pdb
+D:\Cá nhân\QLAoCa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Cá nhân\QLAoCa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Cá nhân\QLAoCa\BUS\obj\Debug\BUS.dll
+D:\Cá nhân\QLAoCa\BUS\obj\Debug\BUS.pdb
+D:\Cá nhân\QLAoCa\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\bin\Debug\BUS.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\obj\Debug\BUS.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\BUS\obj\Debug\BUS.pdb

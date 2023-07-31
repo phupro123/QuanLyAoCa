@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\DAL\obj\Debug\DAL.pdb
+D:\Cá nhân\QLAoCa\DAL\bin\Debug\DAL.dll
+D:\Cá nhân\QLAoCa\DAL\bin\Debug\DAL.pdb
+D:\Cá nhân\QLAoCa\DAL\bin\Debug\DTO.dll
+D:\Cá nhân\QLAoCa\DAL\bin\Debug\DTO.pdb
+D:\Cá nhân\QLAoCa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Cá nhân\QLAoCa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Cá nhân\QLAoCa\DAL\obj\Debug\DAL.dll
+D:\Cá nhân\QLAoCa\DAL\obj\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\obj\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DAL\obj\Debug\DAL.pdb

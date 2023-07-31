@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DTO\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DTO\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DTO\obj\Debug\DTO.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DTO\obj\Debug\DTO.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Cá nhân\QLAoCa\DTO\bin\Debug\DTO.dll
+D:\Cá nhân\QLAoCa\DTO\bin\Debug\DTO.pdb
+D:\Cá nhân\QLAoCa\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Cá nhân\QLAoCa\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Cá nhân\QLAoCa\DTO\obj\Debug\DTO.dll
+D:\Cá nhân\QLAoCa\DTO\obj\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DTO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DTO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DTO\obj\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\DTO\obj\Debug\DTO.pdb

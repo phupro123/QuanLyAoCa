@@ -1,0 +1,181 @@
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\QLAoCa.exe.config
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\QLAoCa.exe
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\QLAoCa.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\BUS.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\BUS.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.ChangePassForm.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.CreateAccForm.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.Login.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.MainForm.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.AdvanceBe.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.AdvanceBenh.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.AdvanceFeed.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.DoanhThu.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.ManageBe.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.ManageBenh.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.ManageKho.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.ManageLua.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.ManageLuong.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.ManageQuyen.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.ManageStaff.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.Properties.Resources.resources
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.csproj.CopyComplete
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.exe
+C:\Users\User\Desktop\tt\New folder\QLAoCa\obj\Debug\QLAoCa.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\QLAoCa.exe.config
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\QLAoCa.exe
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\QLAoCa.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\BUS.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\BUS.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.ChangePassForm.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.CreateAccForm.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.Login.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.MainForm.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.AdvanceBe.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.AdvanceBenh.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.AdvanceFeed.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.DoanhThu.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.ManageBe.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.ManageBenh.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.ManageKho.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.ManageLua.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.ManageLuong.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.ManageQuyen.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.ManageStaff.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.Properties.Resources.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.csproj.CopyComplete
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.exe
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.pdb
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.MoiTruong.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.MacBenh.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.AdvanceLua.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.Feed.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.AdvanceKho.resources
+C:\Users\User\Desktop\tt\test\QLAoCa\obj\Debug\QLAoCa.AdvanceLuong.resources
+D:\Cá nhân\QLAoCa\bin\Debug\QLAoCa.exe.config
+D:\Cá nhân\QLAoCa\bin\Debug\QLAoCa.exe
+D:\Cá nhân\QLAoCa\bin\Debug\QLAoCa.pdb
+D:\Cá nhân\QLAoCa\bin\Debug\BUS.dll
+D:\Cá nhân\QLAoCa\bin\Debug\DAL.dll
+D:\Cá nhân\QLAoCa\bin\Debug\DTO.dll
+D:\Cá nhân\QLAoCa\bin\Debug\BUS.pdb
+D:\Cá nhân\QLAoCa\bin\Debug\DAL.pdb
+D:\Cá nhân\QLAoCa\bin\Debug\DTO.pdb
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.csproj.AssemblyReference.cache
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.Login.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.MainForm.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.AdvanceBe.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.AdvanceBenh.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.AdvanceFeed.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.AdvanceKho.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.AdvanceLua.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.AdvanceLuong.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.DoanhThu.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.Feed.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.MacBenh.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ManageBe.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ManageBenh.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ManageKho.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ManageLua.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ManageLuong.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ManageQuyen.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ManageStaff.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.MoiTruong.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.Properties.Resources.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.csproj.GenerateResource.cache
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.csproj.CoreCompileInputs.cache
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.exe
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.pdb
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ManageLoai.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.ChiTietCachChua.resources
+D:\Cá nhân\QLAoCa\obj\Debug\QLAoCa.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\QLAoCa.exe.config
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\QLAoCa.exe
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\QLAoCa.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\BUS.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.Login.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.MainForm.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceBe.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceBenh.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceFeed.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceKho.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceLua.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceLuong.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.DoanhThu.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.Feed.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.MacBenh.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageBe.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageBenh.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageKho.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ChiTietCachChua.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageLoai.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageLua.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageLuong.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageQuyen.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageStaff.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.MoiTruong.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.exe
+C:\Users\ADMIN\Desktop\QLAoCa\QLAoCa\obj\Debug\QLAoCa.pdb
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\QLAoCa.exe.config
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\QLAoCa.exe
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\QLAoCa.pdb
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\BUS.dll
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.Login.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.MainForm.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceBe.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceBenh.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceFeed.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceKho.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceLua.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.AdvanceLuong.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.DoanhThu.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.Feed.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.MacBenh.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageBe.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageBenh.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageKho.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ChiTietCachChua.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageLoai.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageLua.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageLuong.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageQuyen.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.ManageStaff.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.MoiTruong.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.exe
+C:\Users\ADMIN\Desktop\Year3\HCSDL\Project\QLAoCa\QLAoCa\obj\Debug\QLAoCa.pdb
